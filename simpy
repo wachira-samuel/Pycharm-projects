@@ -1,0 +1,8 @@
+import simpy
+
+def main():
+    # Your SimPy code here
+    pass
+
+if __name__ == "__main__":
+    main()
